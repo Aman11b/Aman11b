@@ -1,5 +1,5 @@
 # 👋 About Me
-Hey there! I’m **Aman**, a **Computer Science Engineer** with a knack for **full-stack development** and a passion for the artistic side of web design. Beyond tech, I've dipped my toes in a variety of fields—public speaking, marketing, event management—you name it, I’ve probably done it! Life’s twists and turns even inspired me to write poetry (yep, a poet was born from life’s wraths). I’m always eager to learn and explore more, blending creativity and technical skills in everything I do.
+Hey there! I’m **Aman**, a **Computer Science Engineer** with a knack for **full-stack development** and a passion for the artistic side of web design. Beyond tech, I've dipped my toes in a variety of fields—public speaking, marketing, event planning, event management—you name it, I’ve probably done it! Life’s twists and turns even inspired me to write poetry (yep, a poet was born from life’s wraths). I’m always eager to learn and explore more, blending creativity and technical skills in everything I do.
 
 ## 🎓 Education
 **Bachelor of Technology in Computer Science and Engineering**  
