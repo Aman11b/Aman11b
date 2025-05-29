@@ -1,50 +1,48 @@
 # 👋 About Me
-Hey there! I’m **Aman**, a **Computer Science Engineer** with a knack for **full-stack development** and a passion for the artistic side of web design. Beyond tech, I've dipped my toes in a variety of fields—public speaking, marketing, event planning, event management—you name it, I’ve probably done it! Life’s twists and turns even inspired me to write poetry (yep, a poet was born from life’s wraths). I’m always eager to learn and explore more, blending creativity and technical skills in everything I do.
 
-## 🎓 Education
-**Bachelor of Technology in Computer Science and Engineering**  
-Graphic Era University, Dehradun  
-**CGPA:** 8.6 (2020-2024)
+Hi, I'm **Aman Singh** 👨‍💻  
+Recently, I discovered my passion for **Web Development** and started my journey to become a good developer.  
+Right now, I'm focused on learning and growing by building projects.  
 
-**CBSE Senior School Certificate Examination**  
-Army Public School Nehru Road, Lucknow  
-**Percentage:** 95.2 (2020)
+📁 Below you'll find a showcase of my work — I’d really appreciate your **feedback**!
 
-**CBSE Secondary School Examination**  
-Army School Jodhpur, Rajasthan  
-**Percentage:** 92.5 (2018)
+---
 
-## 💼 Internships
-**AI/ML Intern**  
-NIC Training Unit, LBSNAA, Mussoorie  
-*June 2023 - Oct 2023*  
-Developed a Res-Net Image Classifier with an accuracy of 95%, contributing to a self-assessment system for image recognition.
+## 🔧 Technologies & Tools
 
-**Human Resource Intern**  
-Futurus, Gurugram  
-*Dec 2022 - Feb 2023*  
-Supported the recruitment process, screened candidates, and managed comprehensive recruitment records.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Technical Intern**  
-Survey of India, Dehradun  
-*Oct 2021 - Dec 2021*  
-Managed a database of 800+ students for the State Level MAP QUIZ 2022, ensuring data integrity and streamlined access.
+---
 
-## 🛠️ Skills
-**Languages:** Python, C, C++, HTML, CSS, JavaScript  
-**Technologies:** DBMS, MySQL, Git, GitHub, Linux  
-**Core Skills:** Data Structures, Algorithms, OOP, Web Development, Version Control
+## 📈 My GitHub Languages Breakdown
 
-## 📜 Certifications
-**National Service Scheme (NSS) C Level Certificate**  
-Completed 240 hours of community service and successfully organized 50+ state, national, and college events.
+<!-- Replace Aman11b with your GitHub username -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight)](https://github.com/Aman11b)
 
-**National Service Scheme (NSS) B Level Certificate**  
-Completed 120 hours of community service and managed 30+ events, including fundraisers, plantation drives, rallies, and blood donation camps.
+---
 
-## 🌟 Extra-Curricular Activities
-- NSS Vice Student Coordinator (2023-2024)
-- NSS Team Manager (2022-2023)
-- Regional Debate Winner - Won regional debate competition organized by ONGC, Dehradun
-- State Level Youth Convention - Participated in 2023 at Ramakrishna Mission Ashram, Dehradun
-- GEO INDIA 2022 - Attended the 5th Asian Geo-sciences Conference and Exhibition
+## 🌱 What I'm Doing Right Now
+
+- 🚀 Actively learning Web Development through hands-on projects  
+- 👨‍💻 Completing challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/Aman11b) to sharpen my HTML, CSS, and JavaScript skills  
+- 🧱 Building responsive, accessible, and clean UIs from scratch  
+- 📚 Following [The Odin Project](https://www.theodinproject.com) curriculum to strengthen my full stack foundations  
+- 🤝 Open to collaboration, feedback, and mentorship opportunities  
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: amansingh1100b@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aman-singh-120a76234)  
+- 💻 Portfolio (coming soon)
+
+---
+
+> *"Code, Fail, Fix, Repeat. Every expert was once a beginner."*
