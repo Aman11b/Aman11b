@@ -29,9 +29,7 @@ Right now, I'm focused on learning and growing by building projects.
 
 ## 🌱 What I'm Doing Right Now
 
-- 🚀 Actively learning Web Development through hands-on projects  
 - 👨‍💻 Completing challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/Aman11b) to sharpen my HTML, CSS, and JavaScript skills  
-- 🧱 Building responsive, accessible, and clean UIs from scratch  
 - 📚 Following [The Odin Project](https://www.theodinproject.com) curriculum to strengthen my full stack foundations  
 - 🤝 Open to collaboration, feedback, and mentorship opportunities  
 
@@ -44,5 +42,3 @@ Right now, I'm focused on learning and growing by building projects.
 - 💻 Portfolio (coming soon)
 
 ---
-
-> *"Code, Fail, Fix, Repeat. Every expert was once a beginner."*
