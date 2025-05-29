@@ -1,6 +1,5 @@
-# 👋 About Me
+# Hi, I'm **Aman Singh** 
 
-Hi, I'm **Aman Singh** 👨‍💻  
 Recently, I discovered my passion for **Web Development** and started my journey to become a good developer.  
 Right now, I'm focused on learning and growing by building projects.  
 
@@ -30,7 +29,7 @@ Right now, I'm focused on learning and growing by building projects.
 ## 🌱 What I'm Doing Right Now
 
 - 👨‍💻 Completing challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/Aman11b) to sharpen my HTML, CSS, and JavaScript skills  
-- 📚 Following [The Odin Project](https://www.theodinproject.com) curriculum to strengthen my full stack foundations  
+- 📚 Following [The Odin Project](https://www.theodinproject.com/dashboard) curriculum to strengthen my full stack foundations  
 - 🤝 Open to collaboration, feedback, and mentorship opportunities  
 
 ---
