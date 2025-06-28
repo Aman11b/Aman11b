@@ -11,6 +11,7 @@ Right now, I'm focused on learning and growing by building projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -39,5 +40,3 @@ Right now, I'm focused on learning and growing by building projects.
 - 📫 Email: amansingh1100b@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-singh-120a76234)  
 - 💻 Portfolio (coming soon)
-
----
