@@ -21,8 +21,8 @@ Right now, I'm focused on learning and growing by building projects.
 
 ## 📈 My GitHub Languages Breakdown
 
-<!-- Replace Aman11b with your GitHub username -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight)](https://github.com/Aman11b)
+
 
 ---
 
