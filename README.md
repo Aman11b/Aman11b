@@ -39,9 +39,6 @@
 ## 📊 GitHub Overview
 ---
 
-## 📊 GitHub Overview
----
-
 <!-- Clean Grid Layout -->
 <table align="center" width="100%">
   <!-- Row 1: Stats + Streak -->
