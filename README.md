@@ -58,7 +58,8 @@
     </td>
     <!-- Most Contributed Languages (By Commits) -->
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman11b&theme=tokyonight" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="300" />
+
 
   </td>
   </tr>
