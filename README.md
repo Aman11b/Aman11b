@@ -37,8 +37,10 @@
 ---
 
 ## 📊 GitHub Overview
+---
 <!-- Clean Grid Layout -->
 <table align="center" width="100%">
+  <!-- Row 1: Stats + Streak -->
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Aman11b&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -47,11 +49,16 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman11b&theme=tokyonight&hide_border=true" height="165" />
     </td>
   </tr>
+  <!-- Row 2: Language Cards (2 Cards) -->
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&langs_count=10&theme=tokyonight&hide_border=true&layout=donut" height="180" />
     </td>
   </tr>
+  <!-- Row 4: Activity Graph -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman11b&bg_color=1a1b27&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true" />
@@ -59,8 +66,8 @@
   </tr>
 </table>
 
----
 
+---
 ## 📬 Let's Connect
 
 <p align="center">
