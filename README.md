@@ -61,7 +61,7 @@
     </td>
     <!-- WakaTime Stats -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="300" />
+      <figure><embed src="https://wakatime.com/share/@Aman11b/975e5aa6-45cd-438a-89ca-8276c5a32914.svg"></embed></figure>
     </td>
   </tr>
   <!-- Row 3: Activity Graph -->
