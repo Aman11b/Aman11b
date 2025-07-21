@@ -39,6 +39,9 @@
 ## 📊 GitHub Overview
 ---
 
+## 📊 GitHub Overview
+---
+
 <!-- Clean Grid Layout -->
 <table align="center" width="100%">
   <!-- Row 1: Stats + Streak -->
@@ -50,16 +53,16 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman11b&theme=tokyonight&hide_border=true" height="165" />
     </td>
   </tr>
-  <!-- Row 2: Two Different Language Cards -->
+  <!-- Row 2: Most Used Languages + WakaTime Stats -->
   <tr>
     <!-- Most Used Languages (By Code Size) -->
     <td align="center" width="50%">
-       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
     </td>
-    <!-- Most Contributed Languages (By Commits) -->
+    <!-- WakaTime Stats -->
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="300" />
-  </td>
+    </td>
   </tr>
   <!-- Row 3: Activity Graph -->
   <tr>
@@ -68,6 +71,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
