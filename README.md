@@ -54,13 +54,11 @@
   <tr>
     <!-- Most Used Languages (By Code Size) -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="300" />
     </td>
     <!-- Most Contributed Languages (By Commits) -->
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true" height="300" />
-
-
   </td>
   </tr>
   <!-- Row 3: Activity Graph -->
