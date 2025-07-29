@@ -43,36 +43,37 @@
 <table align="center" width="100%">
   <!-- Row 1: Stats + Streak -->
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aman11b&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman11b&theme=tokyonight&hide_border=true" height="165" />
-    </td>
-  </tr>
-  <!-- Row 2: Most Used Languages + WakaTime Stats -->
-  <tr>
-    <!-- Most Used Languages (By Code Size) -->
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
-    </td>
-    <!-- WakaTime Stats -->
-    <td align="center" width="50%">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="150" />
+  <td align="center" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aman11b&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  </td>
+  <td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman11b&theme=tokyonight" height="165" />
 </td>
-    </td>
-  </tr>
-  <!-- Row 3: Activity Graph -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman11b&bg_color=1a1b27&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true" />
-    </td>
-  </tr>
+
+
+</tr>
+<!-- Row 2: Languages Graph + Quotes -->
+<tr>
+  <!-- Most Used Languages -->
+  <td align="center" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+  </td>
+  <!-- Dynamic Joke/Quote -->
+  <td align="center" width="50%">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" />
+  </td>
+</tr>
+<!-- Row 3: Activity Graph -->
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman11b&bg_color=1a1b27&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true" />
+  </td>
+</tr>
+
 </table>
 
-
-
 ---
+
 ## 📬 Let's Connect
 
 <p align="center">
