@@ -1,9 +1,10 @@
 <h1 align="left">Hi, I'm Aman Singh</h1>
 
 <p align="left">
-  A person driven by a deep passion for <b>web development</b>,  
-  who enjoys <b>reading books</b> and <b>coding while listening to jazz</b>.  
-  Building, learning, and growing — one day at a time.
+  <em>
+    A person driven by a deep passion for <b>web development</b>,  
+    who enjoys <b>reading books</b> and <b>coding while listening to jazz</b>.
+  </em
 </p>
 
 ---
