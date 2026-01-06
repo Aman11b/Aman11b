@@ -34,15 +34,7 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman11b&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman11b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" />
-
-</div>
+>
 
 ---
 
