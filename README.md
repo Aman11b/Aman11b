@@ -32,13 +32,13 @@
 </p>
 
 ### Frameworks & Routing
+
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=CA4245" />
-
 </p>
 
-###  Styling & UI
+### Styling & UI
 
 <p align="left">
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Styled_Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
 </p>
 
-###  State Management & Data Fetching
+### State Management & Data Fetching
 
 <p align="left">
   <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
@@ -55,13 +55,21 @@
   <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge&logo=react-query&logoColor=FF4154" />
 </p>
 
-###  Backend & Database
+### Backend & Database
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
-###  Development Tools
+### Testing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" />
+</p>
+
+### Development Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
